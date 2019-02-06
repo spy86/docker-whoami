@@ -1,7 +1,5 @@
-# README #
 
-whoami
-======
+[![docker-whoami](https://img.shields.io/badge/spy86-whoami-blue.svg)](https://cloud.docker.com/repository/docker/spy86/whoami) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Simple HTTP docker service that prints it's container ID
 
