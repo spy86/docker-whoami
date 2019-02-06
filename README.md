@@ -1,5 +1,5 @@
 
-[![docker-whoami](https://img.shields.io/badge/spy86-whoami-blue.svg)](https://cloud.docker.com/repository/docker/spy86/whoami) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![docker-whoami](https://img.shields.io/badge/spy86-whoami-blue.svg)](https://cloud.docker.com/repository/docker/spy86/whoami) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build status](https://dev.azure.com/DevOpsSysOps/Docker/_apis/build/status/Build-docker-whoami)](https://dev.azure.com/DevOpsSysOps/Docker/_build/latest?definitionId=35)
 
 Simple HTTP docker service that prints it's container ID
 
